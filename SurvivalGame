@@ -1,1 +1,39 @@
-Test File
+import java.util.Scanner;
+
+public class SurvivalGame
+
+{
+
+  public Static void main (String[] args)
+  
+  {
+  
+  //Variables List
+  
+  String Name;
+  
+  Double Ratio;
+  
+  int Win;
+  
+  int Lose;
+  
+  User = User(Name);
+  
+  }
+  
+  public static String User(String Alias)
+  
+  {
+  
+  Scanner input = new Scanner (System.in)
+  
+  System.out.println("Please input you name please.");
+  
+  Alias = input.nextln();
+  
+  System.out.printf ("Welcome to the Survival Game %s!);
+  
+  }
+  
+}
