@@ -34,6 +34,8 @@ public class SurvivalGame
   
   System.out.printf ("Welcome to the Survival Game %s!);
   
+  return Alias;
+  
   }
   
 }
