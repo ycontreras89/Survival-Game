@@ -26,6 +26,8 @@ public class SurvivalGame
   
   {
   
+  test yessica
+  
   Scanner input = new Scanner (System.in)
   
   System.out.println("Please input you name please.");
